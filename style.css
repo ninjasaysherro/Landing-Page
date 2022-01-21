@@ -163,3 +163,93 @@ img {
     color: gray;
     font-size: 20px;
 }
+
+/*Third Section*/
+
+.section3 {
+    background: #e5e7eb;
+    padding: 100px 190px;
+    display: flex;
+    flex: 1 auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.quotebox {
+    color: #1F2937;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 200;
+    width: 780px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.author {
+    font-size: 24px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+/*Fourth Section*/
+
+.section4 {
+    padding: 100px 160px;
+}
+
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background: #3882F6;
+    padding: 40px;
+    width: 925px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.call-to-action{
+    font-size: 21.5px;
+    color: white;
+    font-weight: bold;
+}
+
+.container p {
+    font-size: 16px;
+    color: lightgrey;
+}
+
+button {
+    border: none;
+    border-style: solid;
+    border-radius: 10px;
+    color: #f9faf8;
+    font-size: 18px;
+    padding: 5px 25px;
+    margin-top: 10px;
+    background-color: #3882F6;
+    width: 130px;
+    display: flex;
+    justify-content: center;
+}
+
+/*Footer*/
+
+.footer {
+    background: #1F2937;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
